@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cahyawibawa
 - 👀 I’m interested in Fullstack Developer
 - 🌱 I’m currently learning Codeigniter
-- 💞️ I’m looking to collaborate on Instagram
 - 📫 How to reach me instagram <a href="https://www.instagram.com/cahyawibawaa/">cahyawibawaa</a>
 
 <!---
