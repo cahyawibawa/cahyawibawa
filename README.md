@@ -1,21 +1,14 @@
-<!-- ###   <h1>Hi there 👋, I’m Nur Cahya Wibawa</h1>
--  🔭 I’m currently learning Javascript & PHP
--  ⚡ Excited to create a Website
--  😄 I'm natively speak Indonesian and still learn english.
-- 📫 You can reach me at <a href="https://www.instagram.com/cahyawibawaa/">cahyawibawaa</a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=cahyawibawa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
 
 <h1 align="center">Hi there 👋, I'm Nur Cahya Wibawa</h1>
-<h3 align="center">A passionate UI Designer & Junior Front-End Developer from Yogyakarta</h3>
+<h3 align="center">A passionate Frontend Web developer & Junior from Yogyakarta, Indonesia </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cahyawibawa&label=Profile%20views&color=0e75b6&style=flat" alt="cahyawibawa" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cahyawibawa" alt="cahyawibawa" /></a> </p> -->
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [cahyawibawa.vercel.app](https://cahyawibawa.vercel.app/)
+- 👨‍💻 All of my projects are available at [cahyawibawa.com](https://cahyawibawa.com)
 
 - 📫 How to reach me **cahyawbwa@gmail.com**
 
