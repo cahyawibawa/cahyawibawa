@@ -12,14 +12,14 @@
 - ⚡ Excited to create a Website 
 - 😄 I'm natively speak Indonesian and still learn english.
 <details>
- <summary><h3 align="left">GitHub Statistics</h3></summary>
+ <summary>GitHub Statistics</summary>
  <hr />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cahyawibawa&show_icons=true&locale=en&layout=compact&bg_color=151515&icon_color=bb2acf&text_color=daf7dc" alt="cahyawibawa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cahyawibawa&show_icons=true&locale=en&bg_color=151515&icon_color=bb2acf&text_color=daf7dc" alt="cahyawibawa" /></p>
 </details>
 <details>
-<summary><h3 align="left">Skilss</h3></summary>
+<summary>Skilss</summary>
 <p>Frontend Development</p>
 <ul>
  <li>
