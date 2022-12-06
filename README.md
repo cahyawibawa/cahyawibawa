@@ -12,7 +12,7 @@
 - ⚡ Excited to create a Website 
 - 😄 I'm natively speak Indonesian and still learn english.
 <details>
- <summary>GitHub Statistics</summary>
+ <summary><h3 align="left">GitHub Statistics</h3></summary>
  <hr />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cahyawibawa&show_icons=true&locale=en&layout=compact&bg_color=151515&icon_color=bb2acf&text_color=daf7dc" alt="cahyawibawa" /></p>
 
