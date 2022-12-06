@@ -7,19 +7,17 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cahyawibawa" alt="cahyawibawa" /></a> </p> -->
 
 - 🌱 I’m currently learning **ReactJs**
-
-- 👨‍💻 All of my projects are available at [cahyawibawa.com](https://cahyawibawa.com)
-
+- 👨‍💻 All of my projects are available at [cahyawibawa.my.id](https://cahyawibawa.my.id)
 - 📫 How to reach me **cahyawbwa@gmail.com**
-
 - ⚡ Excited to create a Website 
-
 - 😄 I'm natively speak Indonesian and still learn english.
-
+<details>
+ <summary>GitHub Statistics</summary>
+ <hr />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cahyawibawa&show_icons=true&locale=en&layout=compact&bg_color=151515&icon_color=bb2acf&text_color=daf7dc" alt="cahyawibawa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cahyawibawa&show_icons=true&locale=en&bg_color=151515&icon_color=bb2acf&text_color=daf7dc" alt="cahyawibawa" /></p>
-
+</details>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cahya wibawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cahya wibawa" height="30" width="40" /></a>
