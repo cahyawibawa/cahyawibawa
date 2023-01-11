@@ -1,7 +1,7 @@
 
 # [![cahya header](https://i.postimg.cc/k4XwWQK8/fix-banner-github.png)](https://cahyawibawa.my.id/)
 
-# ![ghibli](https://i.postimg.cc/J03pm9Fp/ezgif-com-gif-maker-1.gif)
+<!-- # ![ghibli](https://i.postimg.cc/J03pm9Fp/ezgif-com-gif-maker-1.gif) -->
 
 <p align=center>
 <!--   <a href="https://t.me/">
