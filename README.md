@@ -16,7 +16,6 @@
 
 <p align=center>
 <img src="https://visitor-badge.glitch.me/badge?page_id=cahyawibawa.visitor-badge"/>
-<!--     <img src="https://img.shields.io/github/last-commit/cahyawibawa/cahyawibawa?color=red&style=plastic"/> -->
 </p>
 
 <!-- <h1 align="center">Hi there 👋, I'm Nur Cahya Wibawa</h1> -->
