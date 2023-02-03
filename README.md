@@ -12,7 +12,11 @@
   </a>&nbsp;
   <a href="https://www.linkedin.com/mwlite/in/cahya-wibawa"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
   <a href="https://instagram.com/cahyawibawaa"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
+</p>
 
+<p align=center>
+<img src="https://visitor-badge.glitch.me/badge?page_id=cahyawibawa.visitor-badge"/>
+<!--     <img src="https://img.shields.io/github/last-commit/cahyawibawa/cahyawibawa?color=red&style=plastic"/> -->
 </p>
 
 <!-- <h1 align="center">Hi there 👋, I'm Nur Cahya Wibawa</h1> -->
