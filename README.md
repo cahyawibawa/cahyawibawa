@@ -15,7 +15,7 @@
 </p>
 
 <p align=center>
-<img src="https://visitor-badge.glitch.me/badge?page_id=cahyawibawa.visitor-badge"/>
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=cahyawibawa&left_color=blue&left_text=watchers&right_color=#0096c7'></p>
 </p>
 
 <!-- <h1 align="center">Hi there 👋, I'm Nur Cahya Wibawa</h1> -->
