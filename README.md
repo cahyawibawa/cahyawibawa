@@ -32,7 +32,7 @@
 ### About me
 - 👋 Hello my name is `Nur Cahya Wibawa`
 - 🌱 I’m currently learning **Typescript** & **ReactJs**
-- 👨‍💻 All of my projects are showcase at [cahyawibawa.my.id](https://cahyawibawa.my.id/)
+- 👨‍💻 All of my projects are showcase at [cahyawibawa.dev](https://cahyawibawa.dev/)
 - 📫 How to reach me **cahyawibawa.dev@gmail.com**
 - 😄 I'm natively speak `Indonesian` and still learn `English`.
 
