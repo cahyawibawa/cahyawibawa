@@ -7,9 +7,9 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Informatics+Student;Junior+Front-End+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+</p>-->
 
 
 ###
@@ -51,7 +51,7 @@
 ###
 
 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0134.gif" border="0" alt="animated-line-image-0134" /></a>
+<!--<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0134.gif" border="0" alt="animated-line-image-0134" /></a> -->
    
 <details>
 <summary>GitHub Statistics</summary>
