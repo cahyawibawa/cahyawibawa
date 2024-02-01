@@ -1,4 +1,5 @@
 <!--<img width="1420" alt="header-github (1)" src="https://github.com/cahyawibawa/cahyawibawa/assets/62229971/d6310370-137e-4301-a4a1-0849e55d72df">-->
+<!--![profile-pic (3)](https://github.com/cahyawibawa/cahyawibawa/assets/62229971/35476690-dca3-44a0-a53c-5be75754763b)-->
 
 ```ts
 const bio = {
@@ -10,15 +11,16 @@ const bio = {
     typescript: true,
     frontend: {
       tsx: 'React',
-      tools: ['Tailwind', 'shadcn/ui'],
+      tools: ['Tailwind CSS', 'shadcn/ui'],
     },
     backend: {
-      ts: ['Node', 'Supabase'],
+      platfrom: ['PlanetScale', 'Supabase', 'MongoDB'],
+      databases: ['MySQL', 'PostgreSql', 'MQL'],
+      orm: ['Prisma', 'Drizzle']
     },
-    databases: ['Mongo DB'],
   },
-  others: ['C', 'C++', 'Python', 'Dart', 'Kotlin'],
-  learning: ['web3', ...others],
+  others: ['MDX', 'C', 'C++', 'Python', 'Dart', 'Kotlin'],
+  learning: ['Nuxt.js', 'SCSS', 'htmx', 'StyleX'],
 };
 ```
 
