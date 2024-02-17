@@ -7,20 +7,20 @@ const bio = {
   role: 'Frontend developer',
   tools: ['VSCode', 'Figma', 'OpenAI'],
   technologies: {
-    nextJS: true,
-    typescript: true,
+    nextJs: true,
+    typeScript: true,
     frontend: {
-      tsx: 'React',
+      tsx: 'reactjs',
       tools: ['Tailwind CSS', 'shadcn/ui'],
     },
     backend: {
-      platfrom: ['PlanetScale', 'Supabase', 'MongoDB'],
-      databases: ['MySQL', 'PostgreSql', 'MQL'],
+      platfrom: ['Supabase', 'MongoDB'],
+      databases: ['PostgreSql', 'MySQL', 'MQL'],
       orm: ['Prisma', 'Drizzle']
     },
   },
   others: ['MDX', 'C', 'C++', 'Python', 'Dart', 'Kotlin'],
-  learning: ['Nuxt.js', 'SCSS', 'htmx', 'StyleX'],
+  learning: ['Nuxt.js', 'htmx', 'StyleX'],
 };
 ```
 
