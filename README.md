@@ -14,13 +14,13 @@ const bio = {
       tools: ['Tailwind CSS', 'shadcn/ui'],
     },
     backend: {
-      platfrom: ['Supabase', 'MongoDB'],
+      platfrom: ['Supabase', 'Neon'],
       databases: ['PostgreSql', 'MySQL', 'MQL'],
-      orm: ['Prisma', 'Drizzle']
+      orm: ['Drizzle', 'Prisma']
     },
   },
-  others: ['MDX', 'C', 'C++', 'Python', 'Dart', 'Kotlin'],
-  learning: ['Nuxt.js', 'htmx', 'StyleX'],
+  others: ['MDX', 'Python', 'Dart', 'Kotlin'],
+  learning: ['Nothing'],
 };
 ```
 
