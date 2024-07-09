@@ -4,26 +4,25 @@
 ```ts
 const bio = {
   name: 'Cahya Wibawa',
-  role: 'Frontend developer',
-  tools: ['VSCode', 'Figma', 'OpenAI'],
+  role: 'Frontend Developer',
+  tools: ['VSCode', 'Figma', 'Notion', 'Linear'],
   technologies: {
     nextJs: true,
     typeScript: true,
     frontend: {
-      tsx: 'reactjs',
-      tools: ['Tailwind CSS', 'shadcn/ui'],
+      tsx: 'React.js',
+      libraries: ['Tailwind CSS', 'shadcn/ui'],
     },
     backend: {
-      platfrom: ['Supabase', 'Neon'],
-      databases: ['PostgreSql', 'MySQL', 'MQL'],
+      platfrom: 'Neon',
+      databases: ['PostgreSql', 'MySQL'],
       orm: ['Drizzle', 'Prisma']
     },
   },
-  others: ['MDX', 'Python', 'Dart', 'Kotlin'],
-  learning: ['Nothing'],
+  others: ['MDX', 'Astro', 'Kotlin'],
 };
 ```
-
+<img src="https://lihbr.com/api/hr" alt="" height="16" width="100%" />
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=cahyawibawa&left_color=blue&left_text=watchers&right_color=#0096c7'></p>
 
 <!-- <p align="center">
