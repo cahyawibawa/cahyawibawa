@@ -1,86 +1,13 @@
-<!--<img width="1420" alt="header-github (1)" src="https://github.com/cahyawibawa/cahyawibawa/assets/62229971/d6310370-137e-4301-a4a1-0849e55d72df">-->
-<!--![profile-pic (3)](https://github.com/cahyawibawa/cahyawibawa/assets/62229971/35476690-dca3-44a0-a53c-5be75754763b)-->
-
-```ts
-const bio = {
-  name: 'Cahya Wibawa',
-  role: 'Frontend Developer',
-  tools: ['VSCode', 'Figma', 'Notion', 'Linear'],
-  technologies: {
-    nextJs: true,
-    typeScript: true,
-    frontend: {
-      tsx: 'React.js',
-      libraries: ['Tailwind CSS', 'shadcn/ui'],
-    },
-    backend: {
-      platfrom: 'Neon',
-      databases: ['PostgreSql', 'MySQL'],
-      orm: ['Drizzle', 'Prisma']
-    },
-  },
-  others: ['MDX', 'Astro', 'Kotlin'],
-};
-```
-<img src="https://lihbr.com/api/hr" alt="" height="16" width="100%" />
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=cahyawibawa&left_color=blue&left_text=watchers&right_color=#0096c7'></p>
-
-<!-- <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Informatics+Student;Junior+Front-End+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>-->
-
-<!--
-###
-
-<h2 align="left">About me</h2>
-
-###
-- 👋 Hello my name is `Nur Cahya Wibawa`
-- 🌱 I’m currently learning **Typescript** & **NextJs**
-- 👨‍💻 All of my projects are showcase at [cahyawibawa.dev](https://cahyawibawa.dev/)
-- 📫 How to reach me **cahyawibawa.dev@gmail.com**
-- 🎯 Goals: create visually stunning, user-friendly web applications that leave a lasting impression
-
-###
--->
-
-<!--
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
-  <img width="12" />
-    <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  />
-  <img width="12" />
-    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-</div>
-
-###
-
--->
+Ya <br />
+<img src="https://lihbr.com/api/hr" alt="separator" height="3" width="2%" /> <br />
+I’m a frontend engineer with a designer's touch, living in a small town in Indonesia. Currently, I’m shaping my own <b>UTOPIA</b>.
 
 
-<!--<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0134.gif" border="0" alt="animated-line-image-0134" /></a> -->
+[UITOPIA  &#8599;](https://uitopia.xyz)  <br />
+[My personal website  &#8599;](https://cahyawibawa.dev/) <br />
 
-<!--
-<details>
-<summary>GitHub Statistics</summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cahyawibawa&show_icons=true&locale=en&layout=compact&bg_color=151515&icon_color=bb2acf&text_color=daf7dc" alt="cahyawibawa" /></p>
-</details>
--->
+
+<img src='https://visitor-badge.laobi.icu/badge?page_id=cahyawibawa&left_color=gray&left_text=watchers&right_color=#3f6212'>
 
 
 
@@ -90,9 +17,5 @@ const bio = {
 
 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cahyawibawa&" alt="cahyawibawa" /></p> -->
 
-<!---
-cahyawibawa/cahyawibawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
