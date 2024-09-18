@@ -1,13 +1,34 @@
-Ya <br />
+
 <img src="https://lihbr.com/api/hr" alt="separator" height="3" width="2%" /> <br />
-I’m a frontend engineer with a designer's touch, living in a small town in Indonesia. Currently, I’m shaping my own <b>UTOPIA</b>.
+
+<samp>
+I'm Cahya <br/>  I live in a small town in Indonesia.
+</samp>
+</br>
+</br>
+  <samp>
+    I'm interested in web development, <br /> obsessed with details, and 
+    <a href="https://uitopia.xyz](https://cahyawibawa.dev/labs" target="_blank">interaction design</a>.
+  </samp>
+</p>
+
+<samp>
+    reach out to me at my
+    <a href="https://cahyawibawa.dev/" target="_blank">website</a> 
+    and <a href="https://x.com/kyuotaka" target="_blank">X</a>.
+</samp>
+</br>
+</br>
+<samp>
+Thank You!
+</samp>
+</br>
+</br>
+<p align="right">
+<img src='https://visitor-badge.laobi.icu/badge?page_id=cahyawibawa&left_color=black&left_text=visitors&right_color=black'>
+</p>
 
 
-[UITOPIA  &#8599;](https://uitopia.xyz)  <br />
-[My personal website  &#8599;](https://cahyawibawa.dev/) <br />
-
-
-<img src='https://visitor-badge.laobi.icu/badge?page_id=cahyawibawa&left_color=gray&left_text=watchers&right_color=#3f6212'>
 
 
 
