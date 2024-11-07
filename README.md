@@ -2,31 +2,33 @@
 <img src="https://lihbr.com/api/hr" alt="separator" height="3" width="2%" /> <br />
 
 <samp>
-I'm Cahya <br/>  I live in a small town in Indonesia.
+  Hi, I'm Cahya. <br />
+  I live in a small town in Indonesia.
 </samp>
-</br>
-</br>
-  <samp>
-    I'm interested in web development, <br /> obsessed with details, and 
-    <a href="https://uitopia.xyz](https://cahyawibawa.dev/labs" target="_blank">interaction design</a>.
-  </samp>
-</p>
+
+</br></br>
 
 <samp>
-    reach out to me at my
-    <a href="https://cahyawibawa.dev/" target="_blank">website</a> 
-    and <a href="https://x.com/kyuotaka" target="_blank">X</a>.
+  I'm into web development, particularly <sup>polish & performance</sup>. <br />
+  I’m detail-obsessed and enjoy interaction design. <br />
+  Reach out on my <a href="https://cahyawibawa.dev/" target="_blank">website</a> or <a href="https://x.com/kyuotaka" target="_blank">X</a>.
 </samp>
-</br>
-</br>
+
+</br></br>
+
 <samp>
-Thank You!
+  Thank you!
 </samp>
-</br>
-</br>
+
+</br></br>
+
 <p align="right">
-<img src='https://visitor-badge.laobi.icu/badge?page_id=cahyawibawa&left_color=black&left_text=visitors&right_color=black'>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cahyawibawa&left_color=black&left_text=visitors&right_color=black">
 </p>
+
+
+<!--- https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2
+https://1lineart.kulaone.com/#/
 
 
 
